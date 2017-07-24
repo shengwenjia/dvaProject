@@ -1,0 +1,68 @@
+.headTitle {
+    color: #FFFFFF;
+    text-align: center;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 30px;
+    line-height: 30px;
+}
+
+.titleSpan {
+    margin-left: -50px;
+}
+
+.selectMenu {
+    width: 100%;
+    height: 28px;
+    position: fixed;
+    top: 30px;
+    background-color: #FFFFFF;
+}
+
+.dropdownmenu {
+    width: 50%;
+    height: 30px;
+    float: left;
+}
+
+.maincontent {
+    position: fixed;
+    top: 60px;
+    height: calc(100% - 60px);
+    overflow-y: scroll;
+    width: 100%;
+}
+
+.backicon {
+    color: #FFFFFF;
+}
+
+.backbtn {
+    float: left;
+    background-color: transparent !important;
+    border: none !important;
+}
+
+.detailcard {
+    top: 30px;
+    width: 100%;
+    position: fixed !important;
+    height: calc(100% - 30px);
+    overflow-y: scroll !important;
+}
+
+.bottombackbtn {
+    width: 100%;
+    height: 30px;
+    line-height: 30px;
+    margin-top: 10px;
+    background-color: #00C2DE;
+    text-align: center;
+    color: #FFFFFF;
+}
+
+.bottombackicon {
+    padding-right: 10px;
+}
